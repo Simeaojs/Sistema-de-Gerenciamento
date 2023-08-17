@@ -60,3 +60,26 @@ POST /usuarios
 }
 ```
 
+**Listar o Usuario Salvo**
+
+```http
+GET /projetos
+
+{
+"idUsuario": 5,
+"nome": "Sandra",
+"sobrenome": "Maria",
+"email": "usuario@example.com",
+"senha": "senha123",
+"genero": "FEMININO",
+}
+
+```
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você identificar problemas ou melhorias, sinta-se à vontade para abrir um pull request.
+
+
+## Licença
+Este projeto está licenciado sob a Licença XYZ - veja o arquivo **LICENSE** para mais detalhes.
