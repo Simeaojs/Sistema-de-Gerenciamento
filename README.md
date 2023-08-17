@@ -25,7 +25,7 @@ Este é um sistema de API para gerenciamento de tarefas, projetos e usuários, d
 ## Configuração
 
 1. Clone o repositório para o seu ambiente local.
-   
+  + Git Clone ```https://github.com/Simeaojs/Sistema-de-Gerenciamento.git```
 3. Configure as dependências do projeto (Maven).
 4. Configure as informações do banco de dados no arquivo de configuração (`application.properties` ou `application.yml`).
 5. Execute a aplicação.
