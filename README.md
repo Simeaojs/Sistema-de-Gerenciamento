@@ -10,3 +10,14 @@ Este é um sistema de API para gerenciamento de tarefas, projetos e usuários, d
 - Associação de tarefas a projetos e usuários.
 - Consulta de tarefas por projeto e por usuário.
 - Consulta de tarefas filtradas por projeto e usuário.
+
+  
+## Tecnologias Utilizadas
+
+- Java
+- Spring Framework
+- Spring Data JPA
+- Banco de Dados (MySQL)
+- Gerenciador de Dependências Maven
+- Postman Para Requisições
+- IDE Visual Studio Code
