@@ -66,7 +66,7 @@ POST /usuarios
 GET /projetos
 
 {
-"idUsuario": 5,
+"idUsuario": 1,
 "nome": "Sandra",
 "sobrenome": "Maria",
 "email": "usuario@example.com",
@@ -83,3 +83,5 @@ Contribuições são bem-vindas! Se você identificar problemas ou melhorias, si
 
 ## Licença
 Este projeto está licenciado sob a Licença XYZ - veja o arquivo **LICENSE** para mais detalhes.
+
+*Projeto Desenvolvido no Curso Da Treina Recife, Java WEB + Spring Boot!*
