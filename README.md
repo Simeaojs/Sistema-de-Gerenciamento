@@ -30,19 +30,6 @@ Este é um sistema de API para gerenciamento de tarefas, projetos e usuários, d
 4. Configure as informações do banco de dados no arquivo de configuração (`application.properties` ou `application.yml`).
 5. Execute a aplicação.
 #
-## Para fazer essa chamada pelo Postman:
-
-1.Abra o Postman.
-
-2.Selecione o método POST.
-
-3.Insira a URL: ```http://localhost:8080/usuarios.```
-
-4.Selecione o tipo de corpo (```body```) como JSON (clique em "```Body```" e escolha "```raw```" e "JSON (```application/json```)").
-
-5.Cole o JSON do exemplo acima no corpo da solicitação.
-
-6.Clique no botão "```Send```" para fazer a solicitação.
 
 ## Exemplos de Requisições
 
@@ -59,6 +46,20 @@ POST /usuarios
   "genero": "FEMININO"
 }
 ```
+## Para fazer essa chamada pelo Postman:
+
+1.Abra o Postman.
+
+2.Selecione o método POST.
+
+3.Insira a URL: ```http://localhost:8080/usuarios.```
+
+4.Selecione o tipo de corpo (```body```) como JSON (clique em "```Body```" e escolha "```raw```" e "JSON (```application/json```)").
+
+5.Cole o JSON do exemplo acima no corpo da solicitação.
+
+6.Clique no botão "```Send```" para fazer a solicitação.
+#
 
 **Listar o Usuario Salvo**
 
@@ -75,6 +76,16 @@ GET /projetos
 }
 
 ```
+
+**Para fazer essa chamada pelo Postman:**
+
+1.Abra o Postman.
+
+2.Selecione o método GET.
+
+3.Insira a URL: ```http://localhost:8080/usuarios```.
+
+4.Clique no botão "Send" para fazer a solicitação.
 
 ## Contribuição
 
